@@ -311,3 +311,5 @@ cython_debug/
 # pixi environments
 .pixi
 *.egg-info
+_Phil/ch05/gpt2
+*.pth
